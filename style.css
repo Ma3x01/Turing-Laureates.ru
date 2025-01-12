@@ -8,11 +8,11 @@
 }
 @font-face {
     font-family: "FeatureMono-Regular";
-    src: url("FeatureMono-Regular.ttf");
+    src: url("./FeatureMono-Regular.ttf");
 }
 @font-face {
   font-family: "FeatureMono-Thin";
-  src: url("FeatureMono-Thin.ttf");
+  src: url("./FeatureMono-Thin.ttf");
 }
 
 body {
