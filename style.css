@@ -1,10 +1,10 @@
 @font-face {
     font-family: "FeatureMono-Medium";
-    src: url("FeatureMono-Medium.ttf");
+    src: url("./FeatureMono-Medium.ttf");
 }
 @font-face {
     font-family: "FeatureMono-Bold";
-    src: url("FeatureMono-Bold.ttf");
+    src: url("./FeatureMono-Bold.ttf");
 }
 @font-face {
     font-family: "FeatureMono-Regular";
