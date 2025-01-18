@@ -45,8 +45,8 @@ main {
   background-color: #BFBFBF;
   display: flex;
   box-sizing: content-box;
-  padding-left: 240px;
-  padding-right: 240px;
+  padding-left: 12%;
+  padding-right: 12%;
   padding-top: 10px;
   padding-bottom: 10px;
   border-radius: 15px;
